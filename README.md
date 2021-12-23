@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving, Artificial Intelligence and Machine Learning. 
 - 🌱 I’m currently learning Block Chain and trying to get even better at problem solving in more languages.
 - 💞️ I’m looking to collaborate on any software development or open source projects
-- 📫 Reach me at tamzidhs@gmail.com
+- 📫 Reach me at md.tamjid.hossain@g.bracu.ac.bd
 
 <!---
 mtamjidhossain/mtamjidhossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
