@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtamjidhossain
-- 👀 I’m interested in problem solving, Artificial Intelligence and Machine Learning. 
+- 👀 I’m interested in problem solving, Artificial Intelligence, Machine Learning, and Data Science. 
 - 🌱 I’m currently learning Block Chain and trying to get even better at problem solving in more languages.
 - 💞️ I’m looking to collaborate on any software development or open source projects
 - 📫 Reach me at md.tamjid.hossain@g.bracu.ac.bd
