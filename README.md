@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mtamjidhossain
-- 💼 A working professional as a Data Engineer at Robi Axiata Ltd., the second largest mobile network operator in Bangladesh (54.5Mn subscribers).
+- 💼 Full-time Data Engineer at Robi Axiata Ltd., Bangladesh's second largest mobile network operator (54.5Mn subscribers).
 - 👀 I’m interested in problem solving, Artificial Intelligence, Machine Learning, and Data Science. 
 - 🌱 I’m currently learning Block Chain and trying to get even better at problem solving in more languages.
 - 💞️ I’m looking to collaborate on any software development or open source projects
